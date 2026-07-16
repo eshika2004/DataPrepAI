@@ -1,5 +1,3 @@
-#DataPrepAI
-
 DataPrepAI is a Python-based data preprocessing and quality analysis tool designed to automate one of the most time-consuming stages of the Machine Learning pipeline—data preparation.
 
 The project helps users load datasets, analyze their quality, identify common data issues, and apply appropriate preprocessing techniques before model development. It aims to provide a structured and user-friendly workflow that simplifies exploratory data analysis and improves data reliability.
